@@ -1,0 +1,62 @@
+.body {
+    margin:50px;
+    background-color: aqua;
+}
+.titulopagina {
+    font-family:fantasy;
+    font-size: 40px;
+    color:red;
+    text-align: center;
+}
+a:link{
+    color:red;
+    text-decoration: none;
+    font-size:30px;
+    font-family:fantasy;
+}
+a:visited{
+    color:red;
+}
+a:hover {
+    color: green;
+    font-size: 50px;
+    }
+    a:active {
+    color:gold;
+    }
+
+.tabela{
+    font-family:fantasy;
+    border:3px solid black;
+    margin:auto;
+    
+}
+
+.titulo-table{
+    text-transform: uppercase;
+    padding:20px;
+    background-color:silver;
+    text-align:center;
+}
+.titulo{
+    color:red;
+    font-family: fantasy;
+    font-size:30px;
+    text-align: center;
+}
+.subtitlo{
+    color:rgb(119, 16, 16);
+    font-family:fantasy;
+    font-size:22px;
+    text-align:center;
+}
+.texto {
+    font-size:20px;
+    font-weight: 100;
+    color:dimgrey;
+    font-family:fantasy;
+}
+.imagepernalonga{
+    border-radius:50%;
+    
+}
